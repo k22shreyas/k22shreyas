@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k22shreyas
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on good ifrst issues
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate on good first issues
 - 📫 How to reach me k22shreyas@gmail.com
 
 <!---
