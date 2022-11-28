@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k22shreyas
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on good first issues
 - 📫 How to reach me k22shreyas@gmail.com
 
